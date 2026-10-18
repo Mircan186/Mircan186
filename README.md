@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Miranda, I am a new learner to C++ 
 - 🔭 I’m currently working on my aquaponics problem for my C++ class.
 - 🌱 I’m currently learning the basics of C++
 
